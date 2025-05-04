@@ -12,4 +12,4 @@ Support: Daily video solutions and new problems shared regularly
 
 This initiative encourages discipline, consistency, and technical growth, helping students prepare for product-based and service-based company placements.
 
-📍 Open to senior batches (2022 & 2023) of VIT Bhopal 📈 Goal: Improve coding logic, problem-solving, and readiness for real-world interviews
+📍 Open to senior batches (2022 & 2023) of VIT Bhopal 📈 Goal: Improve coding logic, problem-solving, and readiness for real-world interview
